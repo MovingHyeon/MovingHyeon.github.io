@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: MovingHyeon # the main title
 
-tagline: Just a story of an undergraduate to grow expertise in data science# it will display as the sub-title
+tagline: Just a story of an undergraduate to grow expertise in data science
 
 description: >- # used by seo meta and the atom feed
   Now undergraduate in statistics, double majoring economics, at Seoul National University. Major research fields are still being explored, including data analyzing techniques such as developing interpretable deep learning models, addressing a variety of social(espeically economical) problems with data science, and developing background theory on those researches in probabilistic sense. On the other hand, riding a bike, playing guitar, listening to band music, looking for special spots such as cafe with magnificent interior, and other weird stuffs are the hobbies mostly taking up my spare time.
@@ -34,8 +34,8 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: MovingHyeon
+  email: ac585258@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your twitter homepage
@@ -43,6 +43,7 @@ social:
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
+    - https://www.instagram.com/moving_hyeon03/
 
 # Site Verification Settings
 webmaster_verifications:
