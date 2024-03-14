@@ -16,14 +16,14 @@ timezone: Asia/Seoul
 
 title: MovingHyeon # the main title
 
-tagline: Just a story of an undergraduate to grow expertise in data science
+tagline: Data Science Aficionado - Just a story of an undergraduate to grow expertise in data science
 
 description: >- # used by seo meta and the atom feed
   Now undergraduate in statistics, double majoring economics, at Seoul National University. Major research fields are still being explored, including data analyzing techniques such as developing interpretable deep learning models, addressing a variety of social(espeically economical) problems with data science, and developing background theory on those researches in probabilistic sense. On the other hand, riding a bike, playing guitar, listening to band music, looking for special spots such as cafe with magnificent interior, and other weird stuffs are the hobbies mostly taking up my spare time.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://movinghyeon.github.io"
 
 github:
   username: MovingHyeon # change to your github username
@@ -86,7 +86,7 @@ theme_mode: light
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: "https://chirpy-img.netlify.app"
+img_cdn: "" # "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
 avatar: "/assets/img/me.jpg"

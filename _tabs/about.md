@@ -50,5 +50,5 @@ My **Kakao tistory** contains happenings or issues just in the daytime some of w
 
 # **Projects**
 
-### 1. 2023 Data & AI 분석 경진대회 - "한강에서 무빙"팀
+### **2023 Data & AI 분석 경진대회** - "한강에서 무빙"팀
 ![alt text](/assets/img/image.png)
