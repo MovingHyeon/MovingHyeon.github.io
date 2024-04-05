@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+User-agent: *
+Disallow: /my-stories/
+
+Sitemap: http://dveamer.github.io/sitemap.xml
+
