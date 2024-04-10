@@ -1,9 +1,5 @@
 User-agent: *
 Allow: /
-User-agent: *
-Disallow: /my-stories/
-User-agent: BadBot
-Disallow: /
 
 Sitemap: http://dveamer.github.io/sitemap.xml
 
