@@ -5,10 +5,7 @@ order: 4
 ---
 
 
-### **Double major in *Statistics* & *Economics*, undergraduate**
 
-* Korea Science Academy 19 
-* Seoul National University 22
 
 <br>
 
@@ -41,9 +38,8 @@ My **notion** site that usually uploads academic works but sometimes stupid thin
 
 # **Other Blogs**
 
-My **Naver blog** contains very old posts mostly related to mathematical texts and can be seen [**here**](https://blog.naver.com/ac5852).
+My **Naver blog** contains very old posts mostly related to mathematical texts and can be seen [**here**](https://blog.naver.com/ac5852). This blog is recently merged with *T-story blog* in which my ordinary life episodes were wirtten to place my posts in an united space, so you can also find my lately stories [**here**](https://blog.naver.com/ac5852). 
 
-My **Kakao tistory** contains happenings or issues just in the daytime some of which are very silly and ridiculous. You can see them [**here**](https://moving-hyeon.tistory.com).
 
 <br>
 <br>
@@ -52,3 +48,12 @@ My **Kakao tistory** contains happenings or issues just in the daytime some of w
 
 ### **2023 Data & AI 분석 경진대회** - "한강에서 무빙"팀
 ![alt text](/assets/img/image.png)
+
+<br>
+<br>
+
+
+### **Double major in *Statistics* & *Economics*, undergraduate**
+
+* Korea Science Academy 19 
+* Seoul National University 22
